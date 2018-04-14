@@ -1,0 +1,29 @@
+{
+  "name": "simple-login",
+  "version": "0.0.0",
+  "description": "A simple login app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buoyantair/simple-login.git"
+  },
+  "keywords": [
+    "login",
+    "simple",
+    "fullstack",
+    "website"
+  ],
+  "author": "buoyantair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buoyantair/simple-login/issues"
+  },
+  "homepage": "https://github.com/buoyantair/simple-login#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
